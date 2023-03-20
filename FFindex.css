@@ -1,0 +1,33 @@
+body {
+    background-image: url("Pictures/alexander-jawfox-vV69Z1j_Qio-unsplash.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1 {
+    /* font-family: 'Norican', cursive;
+    font-family: 'Petit Formal Script', cursive; */
+    font-family: 'Henny Penny', cursive;
+    text-align: center;
+    font-size: 200px;
+    padding-top: 5%;
+    color: #3a86ff;
+}
+
+.nav-link:hover {
+
+    transition: opacity 1s;
+    opacity: 50%;
+    color: #8338ec
+        /* border-bottom-color: white; */
+}
+
+.nav-link {
+    padding: 0.25rem 0;
+    font-family: 'Norican', cursive;
+    font-weight: 700;
+    font-size: x-large;
+    color: #ffbe0b;
+    margin-left: 1rem;
+    border-bottom: 0.25rem solid transparent;
+}
